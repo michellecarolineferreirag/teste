@@ -1,0 +1,116 @@
+body {
+    margin: 0px;
+}
+
+h2,h3,h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkred;
+    text-align: center;
+   
+}
+
+.titulo2 {
+    background-color: crimson;
+    text-align: center;
+}
+.titulo3 {
+    background-color: rgb(193, 220, 20);
+    text-align: center;
+
+}
+.titulo4 {
+    background-color: rgb(220, 130, 20);
+    text-align: center;
+}
+
+#titulo5 {
+    background-color: rgb(90, 20, 220);
+    text-align: center;
+}
+
+
+.foto1 {
+    margin: 0px;
+    padding-left: 30%;
+    
+}
+
+.foto2 {
+    margin: 0px;
+    padding-left: 30%;
+    
+}
+
+.foto3 {
+    margin: 0px;
+    padding-left: 30%;
+}
+
+.foto4 {
+    margin: 0px;
+    padding-left: 30%;
+}
+.video {
+    margin: 50px 350px;
+}
+.icone2 {
+    height: 10%;
+    width: 5%;
+}
+.icone3 {
+    height: 10%;
+    width: 5%;
+}
+
+.icone4 {
+    height: 10%;
+    width: 5%;
+}
+
+#capa {
+    background-image: url(img/patas-coloridas-de-cachorro-ou-gato-com-padrao-de-fundo_1017-30662.webp);
+    text-align: center;
+    font-size: 20px;
+    color: rgb(226, 43, 43);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 200px;
+    text-transform: uppercase;
+
+    
+}
+
+a {
+    color: darkmagenta;
+    text-decoration: underline;
+    border: 3px solid chartreuse;
+    border-radius: 40px;
+    background-color: aqua;
+    letter-spacing: 8px;
+}
+
+a:hover{ 
+    background-color: crimson;
+    color: blue;
+}
+
+
+#capa2 {
+    background-color: rgb(48, 165, 42);
+    padding: 100px;
+}
+#capa3 {
+    background-color: #a52a88;
+    padding: 100px;
+}
+#capa4 {
+    background-color: rgb(157, 165, 42);
+    padding: 100px;
+}
+#capa5 {
+    background-color: rgb(42, 134, 165);
+    padding: 100px;
+}
+#capa6 {
+    background-color: rgb(165, 42, 71);
+    padding: 100px;
+}
